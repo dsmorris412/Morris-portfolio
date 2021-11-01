@@ -10,15 +10,16 @@ Data visualization is incredibly powerful in this day and age, and a tool that i
 # Portfolio
 Here's where my work for the class will go.
 
-# Government debt bar chart (OECD Graphic)
+# Assignment 2
+## Government debt bar chart (OECD Graphic)
 OECD Graphic - Original
 <iframe src="https://data.oecd.org/chart/6vvB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vvB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-# Grid of line charts (OECD Graphic)
+## Grid of line charts (OECD Graphic)
 A look at the Debt-to-GDP ratio across many parts of the World from 1995-2019
 <div class="flourish-embed flourish-chart" data-src="visualisation/7696916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-OECD Graphic - Personal Visualization
+## OECD Graphic - Personal Visualization
 A country-customizable look at the Debt-to-GDP ratio from 1995-2019*
 (*adjusted based on country-available data*) 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7698298"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
