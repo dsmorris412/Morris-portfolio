@@ -20,8 +20,10 @@ A look at the Debt-to-GDP ratio across many parts of the World from 1995-2019
 <div class="flourish-embed flourish-chart" data-src="visualisation/7696916"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## OECD Graphic - Personal Visualization
+**A History of Debt to GDP Ratio across the World**
 A country-customizable look at the Debt-to-GDP ratio from 1995-2019*
-(*adjusted based on country-available data*) 
+
+*(*adjusted based on country-available data*) 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7698298"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
