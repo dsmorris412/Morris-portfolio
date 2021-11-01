@@ -9,3 +9,6 @@ Data visualization is incredibly powerful in this day and age, and a tool that i
 
 # Portfolio
 Here's where my work for the class will go.
+
+# OECD Graphic 
+<iframe src="https://data.oecd.org/chart/6vvB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vvB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
