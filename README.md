@@ -39,7 +39,8 @@ Why I chose this visualization: After quite a bit of experimentation, I chose th
 # Assignment 3/4 #
 ## Original data visualization ##
 ![image](https://user-images.githubusercontent.com/92800996/141031134-cd582bb1-cb13-4a65-ad7b-6933feba450e.png)
-Soure: BP (https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/oil.html)
+Soure: BP 
+(https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/oil.html)
 
 I selected this particular data visualization because I am interested in energy broadly and BP had a number of interesting visualizations (and reams of available data). As expected, I ended up 'informally' critiqueing quite a few of BP's visualizations - on renewables consumption, electricity generation, etc. Most of their visualizations were quite good and appropriate within their contexts. In the process, I appreciated how easy it can be to find how a visualization fails in some measure or another, but much more difficult to actually design something better. Part of the reason I chose this visualization was because I had an idea of how I would redesign it.   
 
