@@ -39,7 +39,7 @@ Why I chose this visualization: After quite a bit of experimentation, I chose th
 # Assignment 3/4 #
 ## Original data visualization ##
 ![image](https://user-images.githubusercontent.com/92800996/141031134-cd582bb1-cb13-4a65-ad7b-6933feba450e.png)
-Soure: BP 
+Source: BP 
 (https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/oil.html)
 
 I selected this particular data visualization because I am interested in energy broadly and BP had a number of interesting visualizations (and reams of available data). As expected, I ended up 'informally' critiqueing quite a few of BP's visualizations - on renewables consumption, electricity generation, etc. Most of their visualizations were quite good and appropriate within their contexts. In the process, I appreciated how easy it can be to find how a visualization fails in some measure or another, but much more difficult to actually design something better. Part of the reason I chose this visualization was because I had an idea of how I would redesign it.   
@@ -71,4 +71,5 @@ Most of the constructive feedback I got, I incorporated - the most significant b
 
 All that said, my redesigned visualization shows how daily oil consumption has fluctuated in the last 25 years and no more so than in the Asia Pacific. The chosen caption is intended to highlight that the Asia Pacific includes the two most populous countries in the World and should be interpreted accordingly. That was the most important thing that I changed from the initial visualization. It was also important to me to show these regional consumption amounts on a scale that highlighted how stark the differences really were. In a moment where wealthier countries are being asked to help developing nations prepare for the impacts of climate change (e.g. African coastal cities) a visualization like this - African oil consumption pales in comparison with North American consumpion - puts that into perspective. 
 
+## Daily Oil Consumption by Region (in millions of barrels) ##
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7759980"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
