@@ -4,10 +4,10 @@ High-level summary of the project (sentence or two) - The Waste Hierarchy in thi
 Project structure that outlines major elements of the story.
 -People generally have a positive view of recycling. Rates of recycling have increased dramatically since the 1980's. Many municipalities require residents to recycle and provide resources (blue bins) to do so. Many locations (primarily urban) adopted single stream recycling to encourage more people to recycle. Proportionally, less waste is being directed to landfills. 
 
--The rise of single stream recycling brought its own number of challenges - the burden of sorting fell on the collector rather than the resident, which is expensive. 
+-The rise of single stream recycling brought its own number of challenges - the burden of sorting fell on the collector rather than the resident. This transferred responsibility is expensive. The convenience it brought to the consumer also meant a looser interpretation of what belonged in the recycling bin, causing contamination.
 
--A lot of our recyclable waste was bought by China before 2018 - they no longer accept the vast majority of it. This meant there was far more supply than demand for Our recycling facilities were not designed to process that much reyclable material
--
+-A lot of our recyclable waste was bought by China before 2018 - they no longer accept the vast majority of it. This meant there was far more supply than demand for recyclable materials. Our recycling facilities were not designed to process the volume of domestic waste.
+-Call to Action: understand the recyclable materials in your neighborhood.
  
 # Sketches #
 Clear and understandable sketches created and available on the Github page.
