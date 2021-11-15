@@ -1,8 +1,13 @@
 # Outline #
-High-level summary of the project (sentence or two); project structure that outlines major elements of the story.
+High-level summary of the project (sentence or two) - The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics.
+
+Project structure that outlines major elements of the story.
+-People generally have a positive view of recycling. Rates of recycling have increased dramatically since the 1980's. Proportionally, less waste is being directed to landfills. 
+-A lot of our recyclable waste was bought by China before 2018 - they no longer accept the vast majority of it. This meant there was far more supply than demand for Our recycling facilities were not designed to process that much reyclable material
+-
  
 # Sketches #
-Clear and understandable sketches created and available on the Github page. 
+Clear and understandable sketches created and available on the Github page.
 Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
 # Data #
