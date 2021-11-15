@@ -14,9 +14,11 @@ Clear and understandable sketches created and available on the Github page.
 Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
 # Data #
-Data source identified. 
+Data source identified.
 A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). 
 A couple of paragraphs that document data sources and how data will be used.
+
+This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for products landfilled contain&pkg
 
 # Method and Medium #
 A few paragraphs documenting how the project will be completed. Platform for the final project identified
