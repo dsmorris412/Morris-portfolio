@@ -1,7 +1,7 @@
 # Outline #
 High-level summary of the project: The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics. An initiative to limit contamination in our recycling practices at home and a push for corporate packaging manufactuers to contribute to the disposal of their byproducts will strengthen and re-prioritize this initiative.
 
-Project structure that outlines major elements of the story.
+## Project structure that outlines major elements of the story ##
 -People generally have a positive view of recycling. Rates of recycling have increased dramatically since the 1980's. Many municipalities require residents to recycle and provide resources (blue bins) to do so. Many locations (primarily urban) adopted single stream recycling to encourage more people to recycle. Proportionally, less waste is being directed to landfills. 
 
 -The rise of single stream recycling brought its own number of challenges - the burden of sorting fell on the collector rather than the resident. This transferred responsibility is expensive. The convenience it brought to the consumer also meant a looser interpretation of what belonged in the recycling bin, causing contamination.
@@ -18,7 +18,11 @@ Data source identified.
 A copy of the data, or a recreated version of the data is available via a publicly-accessible link (Github, Box, or other publicly-accessible link). 
 A couple of paragraphs that document data sources and how data will be used.
 
-This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for products landfilled contain&pkg
+This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for "products landfilled contain&pkg" to illustrate the rise in packaging waste and how much of it ends up in the landfill. 
+
+This EPA [data](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials#recycling![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) provides provides national statistics on recycling rates 
+
+Within this informational [PDF](https://recyclingpartnership.org/wp-content/uploads/dlm_uploads/2020/02/2020-State-of-Curbside-Recycling.pdf![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)), I plan to extract data on recycling participation rates, recycling contaimination rates, 
 
 # Method and Medium #
 A few paragraphs documenting how the project will be completed. Platform for the final project identified
