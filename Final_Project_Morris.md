@@ -1,5 +1,5 @@
 # Outline #
-High-level summary of the project (sentence or two) - The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics.
+High-level summary of the project (sentence or two) - The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics. An initiative to limit contamination in our recycling practices at home and a push for corporate packaging manufactuers to contribute to the disposal of their byproducts will 
 
 Project structure that outlines major elements of the story.
 -People generally have a positive view of recycling. Rates of recycling have increased dramatically since the 1980's. Many municipalities require residents to recycle and provide resources (blue bins) to do so. Many locations (primarily urban) adopted single stream recycling to encourage more people to recycle. Proportionally, less waste is being directed to landfills. 
