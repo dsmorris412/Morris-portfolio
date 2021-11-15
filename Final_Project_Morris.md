@@ -10,6 +10,7 @@ High-level summary of the project: The Waste Hierarchy in this country is deeply
 -Call to Action: understand the recyclable materials in your neighborhood.
  
 # Sketches #
+
 Clear and understandable sketches created and available on the Github page.
 Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
