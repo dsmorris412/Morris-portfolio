@@ -32,4 +32,4 @@ I would like to use the data presented within this [source](https://resource-rec
 
 # Method and Medium #
 A few paragraphs documenting how the project will be completed. Platform for the final project identified
-I plan to use Shorthand for my final project. The platform 
+I plan to use Shorthand for my final project. The platform will allow me to place my visualizations dynamically alongside text - e.g. scrolling through the life cycle of a piece of packaging. I will build many of my visualizations on flourish, taking advantage of the line graphs and map features within the program. 
