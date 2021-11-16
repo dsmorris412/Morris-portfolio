@@ -15,6 +15,7 @@ Clear and understandable sketches created and available on the Github page.
 Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
 ![RecyclingBins](bins.png)
+![ScreenShot](https://raw.github.com/dsmorris412/Morris-portfolio/main/bins.png)
 
 # Data #
 Data source identified.
