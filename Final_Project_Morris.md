@@ -10,7 +10,7 @@ High-level summary: The Waste Hierarchy in this country is deeply flawed - we ha
 
 -Call to Action: understand the recyclable materials in your neighborhood. Advocate for Extended Producer Responsibility (EPR) legislation in your area.
 
-I need to work through exactly how to translate this into a story. The most obvious option would be to integrate a single (personified) piece of packaging waste that would make its way through the cycle - but I haven't found how I will work that in yet (or perhaps think of a different option).
+(I need to work through exactly how to translate this into a story. The advocacy tone is there but I'm not entirely sure how to turn that into a story. The most obvious option would be to integrate a single (personified) piece of packaging waste that would make its way through the cycle - but I haven't found how I will work that in yet amongst my data and planned visualizations. I may consider a different option.
 
 # Sketches #
 
