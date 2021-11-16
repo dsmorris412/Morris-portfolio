@@ -14,8 +14,8 @@ High-level summary of the project: The Waste Hierarchy in this country is deeply
 Clear and understandable sketches created and available on the Github page.
 Sketches mimic aspects of the outline and build on message. Story structure is built into sketches.
 
-![RecyclingBins](bins.png)
-![ScreenShot](https://raw.github.com/dsmorris412/Morris-portfolio/main/bins.png)
+![RecyclingBins](bins.PNG)
+![ScreenShot](https://raw.github.com/dsmorris412/Morris-portfolio/main/bins.PNG)
 
 # Data #
 Data source identified.
