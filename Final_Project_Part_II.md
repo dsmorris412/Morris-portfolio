@@ -8,4 +8,4 @@
 
 
 ## Moodboard ##
-![Recycling](Recycling.JPG)
+![Recycling](Recycling.jpg)
