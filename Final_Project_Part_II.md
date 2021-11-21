@@ -7,5 +7,5 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/7894006"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Moodboard ##
+## Mood Board ##
 ![Recycling](Recycling.jpg)
