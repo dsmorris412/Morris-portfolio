@@ -26,9 +26,9 @@ For my user research, I provided minimal context (other than it was important th
 
 Prior to sharing my mood board, wireframes and storyboard, I knew it was fragmented in its current state and I expected some confusion and uncertainty. Nevertheless, there are certainly patterns in the feedback, and it provided a great deal of subject matter that I can work on!
 
-Encouragingly, the main takeaways from my reviewers were mostly consistent both with each other and my general intention - that recycling is flawed and often misunderstood by the general public. Once further developing my project, I do want that main takeaway to include the call to action.
+Encouragingly, the 'main takeaways' from my reviewers were mostly consistent both with each other and with my general intention - that recycling is flawed and often misunderstood by the general public. Once further developing my project, I do want that main takeaway to include the call to action.
 
-I think the majority of my visualizations need tweaking - more descriptive titles, clearer units, etc. At this stage, I don't think most of my visualizations 'speak-for-themselves' which I would like to make more evident moving into the final project - keeping in mind that 60 seconds will not be sufficient to provide a significant level of context. 
+I think the majority of my visualizations need tweaking - more descriptive titles, clearer units, etc. At this stage, I don't think most of my visualizations 'speak-for-themselves' which I would like to make more evident moving into the final project - keeping in mind that 60 seconds will not be sufficient to provide a significant level of context. And, the story piece will be much more prevalent if I can figure out how to implement 'Kathy' into shorthand and adjacent to the visualizations (I have looked into many different avenues without any luck so far!)
 
 
 
