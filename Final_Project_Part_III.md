@@ -6,4 +6,4 @@ Centering on my character (Kathy) and her realization of the recycling dilemma, 
 
 As a practical matter, I did struggle quite a bit with the design and layout with shorthand, infogram, etc. and can be sure that I still have a lot to learn on the appealing design side of things. However, while I am far from an expert from any of the platforms I used throughout the project, I did get exposure to a tremendous amount of resources and was able to get a sense of how many options there are in order to curate data/information and tell your story.
 
-Final Data Story [here](https://carnegiemellon.shorthandstories.com/Final_Project_Morris/index.html)) 
+Final Data Story [here](https://carnegiemellon.shorthandstories.com/Final_Project_Morris/index.html)
