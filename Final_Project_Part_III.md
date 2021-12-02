@@ -27,11 +27,17 @@ Sustainable Packaging Coalition. (n.d.) Guide to EPR Proposals. Sustainable Pack
 The World Bank. (updated 2021, October 26). What a Waste Global Database. Data Catalog. https://datacatalog.worldbank.org/search/dataset/0039597
 
 Photographs & Character
+
 Photo by Jilbert Ebrahimi on Unsplash
+
 Photo by Alfonso Navarro on Unsplash
+
 Photo by Artem Labunsky on Unsplash
+
 Photo by Pawel Czerwinski on Unsplash
+
 Limpitsouni, K. (2021). unDraw. https://undraw.co/illustrations
-"Take-out boxes" by unDraw
-“In Thought” by unDraw
+
+-"Take-out boxes" by unDraw
+-“In Thought” by unDraw
 
