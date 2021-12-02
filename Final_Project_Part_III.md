@@ -1,4 +1,5 @@
-Link to Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
+Link to Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
+
 Link to Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
 
 In parts I and II (and partially III as well), I got really caught up in the overwhelming scope of the issue (amount of waste we produce, the failings of recycling, etc.) and struggled to narrow the problem to a single narrative - let alone one that could be relayed in the span of a minute. There were many potential offshoots of the issue that I did work to rank in priority during part III of the project. 
