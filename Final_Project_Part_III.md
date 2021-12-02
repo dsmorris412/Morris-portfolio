@@ -13,3 +13,25 @@ Centering on my character (Kathy) and her realization of the recycling dilemma, 
 As a practical matter, I did struggle quite a bit with the design and layout with shorthand, infogram, etc. and can be sure that I still have a lot to learn on the appealing design side of things. However, while I am far from an expert from any of the platforms I used throughout the project, I did get exposure to a tremendous amount of resources and was able to get a sense of how many options there are in order to curate data/information and tell your story.
 
 Final Data Story [here](https://carnegiemellon.shorthandstories.com/Final_Project_Morris/index.html)
+
+## References ##
+
+Environmental Protection Agency (EPA). (n.d.) Guide to the Facts and Figures Report about Materials, Waste and Recycling. Facts and Figures about Materials, Waste and Recycling.  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/guide-facts-and-figures-report-about#Materials_and_Products
+
+Koerth, M. (2019, January 10). The Era Of Easy Recycling May Be Coming To An End. FiveThirtyEight. https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end/
+
+Savkov, S. (2021, March 25). Transforming America’s Recycling System: Break Free from Plastic Pollution Act Reintroduced. Product Stewardship Institute. https://www.productstewardship.us/news/558071/Transforming-Americas-Recycling-System-Break-Free-from-Plastic-Pollution-Act-Reintroduced-.htm
+
+Sustainable Packaging Coalition. (n.d.) Guide to EPR Proposals. Sustainable Packaging Coalition. https://epr.sustainablepackaging.org/
+
+The World Bank. (updated 2021, October 26). What a Waste Global Database. Data Catalog. https://datacatalog.worldbank.org/search/dataset/0039597
+
+Photographs & Character
+Photo by Jilbert Ebrahimi on Unsplash
+Photo by Alfonso Navarro on Unsplash
+Photo by Artem Labunsky on Unsplash
+Photo by Pawel Czerwinski on Unsplash
+Limpitsouni, K. (2021). unDraw. https://undraw.co/illustrations
+"Take-out boxes" by unDraw
+“In Thought” by unDraw
+
