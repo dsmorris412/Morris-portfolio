@@ -1,5 +1,9 @@
 # Part II #
 
+See Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
+
+See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III)
+
 ## Story board ##
 ![storyboard](storyboard.jpg)
 
