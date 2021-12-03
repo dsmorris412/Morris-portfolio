@@ -16,11 +16,11 @@ See Assignment II (Visualizing government debt) [here](https://dsmorris412.githu
 See Assignment III/IV (Critique by Design) [here](https://dsmorris412.github.io/Morris-portfolio/Assignment_3-4)
 
 ## Final Project ##
-See Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
+See Part I (Outline, sketches, data, method) [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
 
-See Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
+See Part II (wireframes / storyboards and user research) [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
 
-See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III)
+See Part III (Final project and presentation) [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III)
 
 
 
