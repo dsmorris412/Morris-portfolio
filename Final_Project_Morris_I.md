@@ -1,7 +1,13 @@
-# Outline #
+# Final Project, Part I #
+
+See Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II![image](https://user-images.githubusercontent.com/92800996/144638375-3e35049f-bc0a-4253-9ee5-42151d916ac8.png)![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png))
+
+See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III![image](https://user-images.githubusercontent.com/92800996/144638375-3e35049f-bc0a-4253-9ee5-42151d916ac8.png)![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png))
+
+## Outline ##
 High-level summary: The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics. An initiative to limit contamination in our recycling practices at home and a push for corporate packaging manufactuers to contribute to the disposal of their byproducts will strengthen and re-prioritize this initiative.
 
-## Major elements of the story ##
+### Major elements of the story ###
 -People generally have a positive view of recycling. Rates of recycling have increased dramatically since the 1980's. Many municipalities require residents to recycle and provide resources (blue bins) to do so. The majority of municipalities adopted single stream recycling to encourage more people to recycle. Proportionally, less waste is being directed to landfills. 
 
 -The rise of single stream recycling brought its own number of challenges - the burden of sorting fell on the collector rather than the resident. This transferred responsibility is expensive. The convenience it brought to the consumer also meant a looser interpretation of what belonged in the recycling bin, causing contamination.
@@ -12,7 +18,7 @@ High-level summary: The Waste Hierarchy in this country is deeply flawed - we ha
 
 (I need to work through exactly how to translate this into a story. The advocacy tone is there but I'm not entirely sure how to turn that into a story. The most obvious option would be to integrate a single (personified) piece of packaging waste that would make its way through the cycle - but I haven't found how I will work that in yet amongst my data and planned visualizations. I may consider a different option.
 
-# Sketches #
+## Sketches ##
 
 ![recyclingrates](recyclingrates.PNG)
 ![pie](pie.PNG)
@@ -23,7 +29,7 @@ High-level summary: The Waste Hierarchy in this country is deeply flawed - we ha
 ![container](shipcnatiner.PNG)
 ![EPR](epr.PNG)
 
-# Data #
+## Data ##
 This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for "products landfilled contain&pkg" to illustrate the rise in packaging waste and how much of it ends up in the landfill. For a more dramatic effect, I might consider visualizing with an animated time counter.
 
 This news [source](https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end/![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) provides data on single-stream recycling programs that I plan to use. As this statistic is given based on two years, I have sketched two 'bins' that communicate the different percentages on the bins.
