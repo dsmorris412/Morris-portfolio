@@ -8,7 +8,13 @@ My name is Deirdre (she/her) and I'm in the Public Policy and Management program
 Data visualization is incredibly powerful in this day and age, and a tool that is used (not always well) in just about every industry. The strategies and tools will all be new to me (I'm pretty impressed by it all right now). I hope to learn how to cater a visualization to a particular audience and how to create honest visualizations that are effective in communication. I plan to narrow this down but after I graduate, I am hoping to go into the policy analysis field. 
 
 # Portfolio
-Here's where my work for the class will go.
+
+## Final Project ##
+See Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
+
+See Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
+
+See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III)
 
 # Assignment 2
 ## Government debt bar chart (OECD Graphic)
