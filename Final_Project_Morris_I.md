@@ -1,8 +1,8 @@
 # Final Project, Part I #
 
-See Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II![image](https://user-images.githubusercontent.com/92800996/144638375-3e35049f-bc0a-4253-9ee5-42151d916ac8.png)![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png))
+See Part II [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_II)
 
-See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III![image](https://user-images.githubusercontent.com/92800996/144638375-3e35049f-bc0a-4253-9ee5-42151d916ac8.png)![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png))
+See Part III [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Part_III)
 
 ## Outline ##
 High-level summary: The Waste Hierarchy in this country is deeply flawed - we have never prioritized reducing and reusing over recycling. This third initiative - recycling - is poorly understood and often futile based on execution and current market economics. An initiative to limit contamination in our recycling practices at home and a push for corporate packaging manufactuers to contribute to the disposal of their byproducts will strengthen and re-prioritize this initiative.
@@ -30,9 +30,9 @@ High-level summary: The Waste Hierarchy in this country is deeply flawed - we ha
 ![EPR](epr.PNG)
 
 ## Data ##
-This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for "products landfilled contain&pkg" to illustrate the rise in packaging waste and how much of it ends up in the landfill. For a more dramatic effect, I might consider visualizing with an animated time counter.
+This [data](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=C9310A59-16D2-4002-B36B-2B0A1C637D4E) source is the Environmental Protection Agency's (EPA) dataset on the materials municipal waste stream from 1960 to 2018. I plan to use historical data for "products landfilled contain&pkg" to illustrate the rise in packaging waste and how much of it ends up in the landfill. For a more dramatic effect, I might consider visualizing with an animated time counter.
 
-This news [source](https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end/![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) provides data on single-stream recycling programs that I plan to use. As this statistic is given based on two years, I have sketched two 'bins' that communicate the different percentages on the bins.
+This news [source](https://fivethirtyeight.com/features/the-era-of-easy-recycling-may-be-coming-to-an-end) provides data on single-stream recycling programs that I plan to use. As this statistic is given based on two years, I have sketched two 'bins' that communicate the different percentages on the bins.
  
 This EPA [data](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/national-overview-facts-and-figures-materials#recycling![image](https://user-images.githubusercontent.com/92800996/141832257-f854b3bc-8585-466d-af0d-8cf1f61f247e.png)) provides national statistics on recycling rates as a proportion of waste generation. This might be most effective as a line graph. I may utilize the data on landfill material type. 
 
