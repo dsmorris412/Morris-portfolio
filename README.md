@@ -10,10 +10,10 @@ Data visualization is incredibly powerful in this day and age, and a tool that i
 # Class Portfolio
 
 ## Assignment II ## 
-See Assignment II [here](https://dsmorris412.github.io/Morris-portfolio/Assignment_II)
+See Assignment II (Visualizing government debt) [here](https://dsmorris412.github.io/Morris-portfolio/Assignment_II)
 
 ## Assignment III & IV ##
-See Assignment III/IV 
+See Assignment III/IV (Critique by Design) [here](https://dsmorris412.github.io/Morris-portfolio/Assignment_3-4)
 
 ## Final Project ##
 See Part I [here](https://dsmorris412.github.io/Morris-portfolio/Final_Project_Morris_I)
