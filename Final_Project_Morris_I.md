@@ -38,7 +38,7 @@ This EPA [data](https://www.epa.gov/facts-and-figures-about-materials-waste-and-
 
 Within this informational [PDF](https://recyclingpartnership.org/wp-content/uploads/dlm_uploads/2020/02/2020-State-of-Curbside-Recycling.pdf), I plan to extract data on recycling input prices, and recycling contamination rates (see contamination sketch above).
 
-I would like to use the data from this news [article](https://www.usatoday.com/story/news/nation-now/2018/06/21/china-ban-plastic-waste-recycling/721879002/https://www.usatoday.com/story/news/nation-now/2018/06/21/china-ban-plastic-waste-recycling/721879002) to create a visualization (similar to my shipping container sketch) in connection with the waste that can no longer be exported to China.
+I would like to use the data from this news [article](https://www.usatoday.com/story/news/nation-now/2018/06/21/china-ban-plastic-waste-recycling/721879002) to create a visualization (similar to my shipping container sketch) in connection with the waste that can no longer be exported to China.
 
 I would like to use the data presented within this [source](https://resource-recycling.com/recycling/2017/03/10/is-access-everything/) to illustrate recycling participation rates in the United States (considering providing detail on type of program as well).
 
