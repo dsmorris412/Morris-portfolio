@@ -3,7 +3,7 @@
 ## Original data visualization ##
 ![image](https://user-images.githubusercontent.com/92800996/141031134-cd582bb1-cb13-4a65-ad7b-6933feba450e.png)
 
-Source: [BP] (https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/oil.html)
+Source: [BP](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/oil.html)
 
 ## Critique the Data Visualization ##
 
@@ -15,7 +15,7 @@ Moving to the wireframe, I wasn't quite sure how I'd move to the draft version o
 
 ## Wireframe & Test the Solution ## 
 
-Wireframe link [here] (https://public.flourish.studio/visualisation/7781419/)
+Wireframe link [here](https://public.flourish.studio/visualisation/7781419/)
 
 Below are a compilation of the answers I received to the following questions:
 
